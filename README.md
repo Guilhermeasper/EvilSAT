@@ -1,2 +1,2 @@
 # EvilSAT
-Tentativa de Otimizar um SAT com chances altissimas de dar errado
+Tentativa de Otimizar um SAT com chances altíssimas de dar errado
